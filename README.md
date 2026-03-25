@@ -1,6 +1,6 @@
 # Spotify Lyric Widget
 
-Protótipo de um widget mobile de letras para o Spotify — exibe a letra e a tradução em tempo real, linha a linha, como um overlay na parte inferior do celular.
+Protótipo de um widget mobile de letras para o Spotify, exibe a letra e a tradução em tempo real, linha a linha, como um overlay na parte inferior do celular.
 
 A ideia é replicar no mobile a experiência que o Spotify Desktop já oferece nativamente: letra sincronizada aparecendo enquanto a música toca, sem precisar sair do app.
 
@@ -8,7 +8,7 @@ A ideia é replicar no mobile a experiência que o Spotify Desktop já oferece n
 
 ## Conceito
 
-O widget funciona como uma **subtela dentro do próprio celular** — uma camada que aparece sobre o app do Spotify mostrando:
+O widget funciona como uma **subtela dentro do próprio celular** uma camada que aparece sobre o app do Spotify mostrando:
 
 - Linha atual da letra em destaque
 - Tradução logo abaixo
